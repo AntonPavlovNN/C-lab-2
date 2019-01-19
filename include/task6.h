@@ -1,0 +1,3 @@
+char * clear(char * line);
+
+
