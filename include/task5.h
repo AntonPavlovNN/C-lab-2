@@ -1,0 +1,2 @@
+char * password(char * line);
+
