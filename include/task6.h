@@ -1,0 +1,2 @@
+char * clear(char * buf);
+
